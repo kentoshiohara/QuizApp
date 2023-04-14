@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+main {
+  width: 320px;
+  margin: 32px auto 0;
+  
+}
+
+h1 {
+  font-style: 20px;
+  text-align: center;
+  border-bottom: 1px solid #ccc ;
+  padding-bottom: 8px;
+}
